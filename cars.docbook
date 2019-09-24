@@ -15,14 +15,14 @@
   </section>
   <section id="diagrams">
     <title>Diagrams</title>
-    <!--diagrambegin1namebeginДиаграмма классовnameend-->
+    <!--diagrambegin1namebeginClassesnameend-->
     <!--diagram1documentationbegindocumentationend-->
     <section>
-      <title>Диаграмма классов</title>
+      <title>Classes</title>
       <para/>
       <mediaobject>
         <imageobject>
-          <imagedata format="PNG" fileref="&#x414;&#x438;&#x430;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x430; &#x43A;&#x43B;&#x430;&#x441;&#x441;&#x43E;&#x432;.png"/>
+          <imagedata format="PNG" fileref="Classes.png"/>
         </imageobject>
       </mediaobject>
     </section>
@@ -31,14 +31,14 @@
       <para/>
     </section>
     <!--diagramend1-->
-    <!--diagrambegin2namebeginДиаграмма прецедентовnameend-->
+    <!--diagrambegin2namebeginUsecasesnameend-->
     <!--diagram2documentationbegindocumentationend-->
     <section>
-      <title>Диаграмма прецедентов</title>
+      <title>Usecases</title>
       <para/>
       <mediaobject>
         <imageobject>
-          <imagedata format="PNG" fileref="&#x414;&#x438;&#x430;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x430; &#x43F;&#x440;&#x435;&#x446;&#x435;&#x434;&#x435;&#x43D;&#x442;&#x43E;&#x432;.png"/>
+          <imagedata format="PNG" fileref="Usecases.png"/>
         </imageobject>
       </mediaobject>
     </section>

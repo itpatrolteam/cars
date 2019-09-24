@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4" xmi.version="1.2" timestamp="2019-09-24T09:42:44">
+<XMI verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4" xmi.version="1.2" timestamp="2019-09-24T10:18:52">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
@@ -84,7 +84,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams resolution="96">
-       <diagram fillcolor="#ffff00" showattribassocs="1" showgrid="0" snapy="25" name="Диаграмма классов" documentation="" showpubliconly="0" localid="-1" showattsig="1" showscope="1" zoom="100" textcolor="#000000" usefillcolor="1" canvasheight="225" xmi.id="uyuYMdm8lMgVM" griddotcolor="#d3d3d3" isopen="1" showops="1" showatts="1" showstereotype="1" showopsig="1" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" showpackage="1" snapgrid="0" snapx="25" backgroundcolor="#ffffff" type="1" linewidth="0" linecolor="#ff0000" snapcsgrid="0" canvaswidth="765">
+       <diagram fillcolor="#ffff00" showattribassocs="1" showgrid="0" snapy="25" name="Classes" documentation="" showpubliconly="0" localid="-1" showattsig="1" showscope="1" zoom="100" textcolor="#000000" usefillcolor="1" canvasheight="225" xmi.id="uyuYMdm8lMgVM" griddotcolor="#d3d3d3" isopen="1" showops="1" showatts="1" showstereotype="1" showopsig="1" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" showpackage="1" snapgrid="0" snapx="25" backgroundcolor="#ffffff" type="1" linewidth="0" linecolor="#ff0000" snapcsgrid="0" canvaswidth="765">
         <widgets>
          <classwidget fillcolor="#ffff00" showpubliconly="0" localid="uTl9K8vN6luLp" usesdiagramusefillcolor="0" showscope="1" height="144" textcolor="#000000" showopsigs="601" usefillcolor="1" showattributes="1" xmi.id="ueAVg22EHnVy4" autoresize="1" showstereotype="1" showoperations="1" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" showpackage="1" x="-640" y="-521" width="257" linewidth="0" usesdiagramfillcolor="0" isinstance="0" linecolor="#ff0000" showattsigs="601"/>
          <classwidget fillcolor="#ffff00" showpubliconly="0" localid="uxMuJPYeAX332" usesdiagramusefillcolor="0" showscope="1" height="36" textcolor="#000000" showopsigs="601" usefillcolor="1" showattributes="1" xmi.id="uL0UM7s2GkyJp" autoresize="1" showstereotype="1" showoperations="1" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" showpackage="1" x="-540" y="-332" width="68" linewidth="0" usesdiagramfillcolor="0" isinstance="0" linecolor="#ff0000" showattsigs="601"/>
@@ -132,7 +132,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams resolution="96">
-       <diagram fillcolor="#ffff00" showattribassocs="1" showgrid="0" snapy="25" name="Диаграмма прецедентов" documentation="" showpubliconly="0" localid="-1" showattsig="1" showscope="1" zoom="86" textcolor="#000000" usefillcolor="1" canvasheight="201.373" xmi.id="uUFsSCIPAOmZm" griddotcolor="#d3d3d3" isopen="1" showops="1" showatts="1" showstereotype="1" showopsig="1" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" showpackage="1" snapgrid="0" snapx="25" backgroundcolor="#ffffff" type="2" linewidth="0" linecolor="#ff0000" snapcsgrid="0" canvaswidth="743.279">
+       <diagram fillcolor="#ffff00" showattribassocs="1" showgrid="0" snapy="25" name="Usecases" documentation="" showpubliconly="0" localid="-1" showattsig="1" showscope="1" zoom="86" textcolor="#000000" usefillcolor="1" canvasheight="201.373" xmi.id="uUFsSCIPAOmZm" griddotcolor="#d3d3d3" isopen="1" showops="1" showatts="1" showstereotype="1" showopsig="1" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" showpackage="1" snapgrid="0" snapx="25" backgroundcolor="#ffffff" type="2" linewidth="0" linecolor="#ff0000" snapcsgrid="0" canvaswidth="743.279">
         <widgets>
          <usecasewidget x="-233.721" usesdiagramfillcolor="0" isinstance="0" height="53" localid="uD2GI001huoew" linecolor="#ff0000" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" xmi.id="uG1Vq6jMH2NkK" width="79" usesdiagramusefillcolor="0" showstereotype="1" fillcolor="#ffff00" linewidth="0" usefillcolor="1" y="-159.302" textcolor="#000000"/>
          <usecasewidget x="-425.581" usesdiagramfillcolor="0" isinstance="0" height="53" localid="uqhDlVbCOau1x" linecolor="#ff0000" font="Noto Sans,10,-1,5,50,0,0,0,0,0,Regular" autoresize="1" xmi.id="uixXFMY4r0vyW" width="70" usesdiagramusefillcolor="0" showstereotype="1" fillcolor="#ffff00" linewidth="0" usefillcolor="1" y="-163.953" textcolor="#000000"/>
@@ -204,7 +204,6 @@
     <listitem type="801" id="Logical_View" open="1">
      <listitem type="813" id="uWViqOT2tqxxh" open="1"/>
      <listitem type="813" id="uL0UM7s2GkyJp" open="1"/>
-     <listitem label="Диаграмма классов" type="807" id="uyuYMdm8lMgVM" open="0"/>
      <listitem type="813" id="u1RnooiVWs8PX" open="1"/>
      <listitem type="830" id="Datatypes" open="0">
       <listitem type="829" id="uNvQE5UmqPt1H" open="1"/>
@@ -226,7 +225,7 @@
       <listitem type="829" id="uCB9DK6760bRe" open="1"/>
       <listitem type="829" id="uh4n8jHHYwLUg" open="1"/>
      </listitem>
-     <listitem type="813" id="ueAVg22EHnVy4" open="1">
+     <listitem type="813" id="ueAVg22EHnVy4" open="0">
       <listitem type="815" id="uKnhMBhYYx0oU" open="0"/>
       <listitem type="815" id="uGbhTLeM9QSdR" open="0"/>
       <listitem type="815" id="uSRBiZTbSnkpr" open="0"/>
@@ -241,17 +240,18 @@
       <listitem type="814" id="uhmfjYkxR7pT7" open="0"/>
       <listitem type="815" id="u0HBFE6kurg8o" open="0"/>
      </listitem>
+     <listitem label="Classes" type="807" id="uyuYMdm8lMgVM" open="0"/>
      <listitem type="813" id="uBOhqAf2DDUnl" open="1"/>
     </listitem>
     <listitem type="836" id="Entity_Relationship_Model" open="1"/>
     <listitem type="802" id="Use_Case_View" open="1">
      <listitem type="812" id="uP3Pct9IR8s9o" open="1"/>
-     <listitem label="Диаграмма прецедентов" type="805" id="uUFsSCIPAOmZm" open="0"/>
      <listitem type="812" id="uixXFMY4r0vyW" open="1"/>
      <listitem type="812" id="u4KTqxKwbL0sW" open="1"/>
      <listitem type="812" id="uHV2WQKH0Nbsz" open="1"/>
      <listitem type="812" id="uG1Vq6jMH2NkK" open="1"/>
      <listitem type="811" id="uR1qaELK1WgJZ" open="1"/>
+     <listitem label="Usecases" type="805" id="uUFsSCIPAOmZm" open="0"/>
     </listitem>
     <listitem type="827" id="Deployment_View" open="1"/>
    </listitem>
