@@ -51,3 +51,4 @@ print(t1.getout())
 ## Материалы
 
 1. [Предметно-ориентированное программирование](https://docs.itpatrol.ru/docs/ddd)
+2. [Классы в Python](https://python-scripts.com/python-class)
