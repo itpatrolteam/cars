@@ -47,6 +47,8 @@ print(t1.drive())
 print(t1.brake())
 print(t1.getout())
 ```
+## Языки програмирования
+Попробуйте сделать задание и [юнит-тест](https://jestjs.io/docs/en/getting-started.html) на Javascript, используя классы ECMAScript 6 (ES-2015)
 
 ## Материалы
 
