@@ -1,0 +1,20 @@
+@startuml
+left to right direction
+
+title "Прецеденты"
+
+Водитель as driver
+(Сесть в ТС) as getin
+(Выйти из ТС) as getout
+(Ехать) as drive
+(Остановить) as brake
+
+
+driver --> getin
+getin --> getout
+getin --> drive
+drive --> brake
+brake --> getout
+
+
+@enduml

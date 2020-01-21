@@ -1,0 +1,28 @@
+@startuml
+package "Cars" {
+
+        class Vehicle <<Транспортное средство>> {
+            String model
+            String color
+            brake()
+            drive()
+            getin(Driver driver)
+            getout()
+        }
+
+        class Car  <<Автомобиль>> extends Vehicle {
+        }
+
+        class Truck <<Грузовик>> extends Vehicle {
+        }
+
+        class Driver <<Водитель>> {
+            String name
+            int age
+            sayHello()
+        }
+
+        Driver - Vehicle : drives >
+
+    }
+@enduml
