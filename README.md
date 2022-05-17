@@ -52,5 +52,5 @@ print(t1.getout())
 
 ## Материалы
 
-1. [Предметно-ориентированное программирование](https://docs.itpatrol.ru/docs/ddd)
+1. [Предметно-ориентированное программирование](https://ilb.github.io/devmethodology/ddd.xhtml)
 2. [Классы в Python](https://python-scripts.com/python-class)
